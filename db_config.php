@@ -1,4 +1,5 @@
 <?php
+	error_reporting(0);
     define('DB_USER', "ieeerone_sywlcon"); // db user
     define('DB_PASSWORD', "GFOZyrEihc;%"); // db password (mention your db password here)
     define('DB_DATABASE', "ieeerone_sywlcongress"); // database name
